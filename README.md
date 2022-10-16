@@ -11,7 +11,7 @@ A Prophet forecast model that can predict hourly user search traffic.
 Answers to the questions in the instructions that you write in your Jupyter notebook.
 (Optional) A plot of a forecast for the company’s future revenue.
 Make sure to also create a MarkdownREADME.md file that summarizes your models and findings.
-##Files
+## Files
 
 Download the following files to help you get started:
 Module 11 Challenge files
